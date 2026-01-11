@@ -18,9 +18,10 @@ By the end of Week 3, you will be able to:
 
 ## Required Readings
 
-- **Higgins & Thornton, Chapter 3:** Probability Theory
-- **Higgins & Thornton, Chapter 4:** The Normal Distribution
-- **Supplemental:** "The Normal Curve in Standardized Testing" (posted in Canvas)
+- **OpenStax Chapter 3.1:** Terminology (Probability)
+  - [Access Reading](https://openstax.org/books/introductory-statistics-2e/pages/3-1-terminology)
+- **OpenStax Chapter 6.1:** The Standard Normal Distribution
+  - [Access Reading](https://openstax.org/books/introductory-statistics-2e/pages/6-1-the-standard-normal-distribution)
 
 ---
 
@@ -53,4 +54,4 @@ By the end of Week 3, you will be able to:
 | Discussion #3: Probability in Daily Educational Decisions | Wednesday, Feb 4, 11:59 PM | 20 |
 | Quiz #3: Probability and Normal Distribution | Sunday, Feb 4, 11:59 PM | 15 |
 
-> **Note:** This is a LIGHTER week (5-6 hours). Use extra time to prepare for Week 4 Midterm!
+> **Note:** This is a LIGHTER week (5-6 hours). Use extra time to prepare for Week 4 Midterm\!

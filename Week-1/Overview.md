@@ -17,9 +17,10 @@ By the end of Week 1, you will be able to:
 
 ## Required Readings
 
-- **Higgins & Thornton, Chapter 1:** Introduction to Statistics
-  - [Access Free Textbook](https://pressbooks.lib.vt.edu/significantstatistics/)
-- **Supplemental Article:** "The Role of Statistics in Educational Research" (posted in Canvas)
+- **OpenStax Chapter 1.1:** Definitions of Statistics, Probability, and Key Terms
+  - [Access Reading](https://openstax.org/books/introductory-statistics-2e/pages/1-1-definitions-of-statistics-probability-and-key-terms)
+- **OpenStax Chapter 1.3:** Frequency, Frequency Tables, and Levels of Measurement
+  - [Access Reading](https://openstax.org/books/introductory-statistics-2e/pages/1-3-frequency-frequency-tables-and-levels-of-measurement)
 
 ---
 

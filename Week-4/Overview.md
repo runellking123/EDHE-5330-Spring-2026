@@ -18,9 +18,10 @@ By the end of Week 4, you will be able to:
 
 ## Required Readings
 
-- **Salkind & Frey, Chapters 7-8:** Sampling Methods
-- **Urdan, Chapters 4-5:** Random Variables and Sampling
-- **Supplemental:** "Sampling Strategies in Higher Education Research" (posted in Canvas)
+- **OpenStax Chapter 1.2:** Data, Sampling, and Variation in Data and Sampling
+  - [Access Reading](https://openstax.org/books/introductory-statistics-2e/pages/1-2-data-sampling-and-variation-in-data-and-sampling)
+- **OpenStax Chapter 7.1:** The Central Limit Theorem for Sample Means
+  - [Access Reading](https://openstax.org/books/introductory-statistics-2e/pages/7-1-the-central-limit-theorem-for-sample-means-averages)
 
 ---
 
@@ -50,7 +51,7 @@ By the end of Week 4, you will be able to:
 
 | Assignment | Due Date | Points |
 |------------|----------|--------|
-| Discussion #4: When Samples Don't Represent | Wednesday, Feb 9, 11:59 PM | 20 |
+| Discussion #4: When Samples Do Not Represent | Wednesday, Feb 9, 11:59 PM | 20 |
 | Quiz #4: Random Variables and Sampling | Sunday, Feb 11, 11:59 PM | 15 |
 | **Midterm Assessment** | Wednesday, Feb 11, 11:59 PM | 120 |
 

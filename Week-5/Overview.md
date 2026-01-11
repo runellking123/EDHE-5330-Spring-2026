@@ -18,9 +18,10 @@ By the end of Week 5, you will be able to:
 
 ## Required Readings
 
-- **Salkind & Frey, Chapters 9-10:** Correlation and Regression
-- **Urdan, Chapters 6-7:** Understanding Relationships Between Variables
-- **Supplemental:** "Misuse of Correlation in Education Research" (posted in Canvas)
+- **OpenStax Chapter 12.2:** Scatter Plots
+  - [Access Reading](https://openstax.org/books/introductory-statistics-2e/pages/12-2-scatter-plots)
+- **OpenStax Chapter 12.3:** The Regression Equation
+  - [Access Reading](https://openstax.org/books/introductory-statistics-2e/pages/12-3-the-regression-equation)
 
 ---
 

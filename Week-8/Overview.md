@@ -18,8 +18,10 @@ By the end of Week 8, you will be able to:
 
 ## Required Readings
 
-- Review all course materials as needed for final project
-- **Supplemental:** "Communicating Statistics to Non-Technical Audiences" (posted in Canvas)
+- **OpenStax Chapter 10.4:** Matched or Paired Samples
+  - [Access Reading](https://openstax.org/books/introductory-statistics-2e/pages/10-4-matched-or-paired-samples)
+- **OpenStax Chapter 12.4:** Testing the Significance of the Correlation Coefficient
+  - [Access Reading](https://openstax.org/books/introductory-statistics-2e/pages/12-4-testing-the-significance-of-the-correlation-coefficient)
 
 ---
 

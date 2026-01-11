@@ -18,9 +18,10 @@ By the end of Week 7, you will be able to:
 
 ## Required Readings
 
-- **Salkind & Frey, Chapters 13-14:** Comparing Group Means
-- **Urdan, Chapters 10-11:** T-Tests and ANOVA
-- **Supplemental:** "Choosing the Right Statistical Test" (posted in Canvas)
+- **OpenStax Chapter 10.1:** Two Population Means with Unknown Standard Deviations (T-Tests)
+  - [Access Reading](https://openstax.org/books/introductory-statistics-2e/pages/10-1-two-population-means-with-unknown-standard-deviations)
+- **OpenStax Chapter 13.1:** One-Way ANOVA
+  - [Access Reading](https://openstax.org/books/introductory-statistics-2e/pages/13-1-one-way-anova)
 
 ---
 

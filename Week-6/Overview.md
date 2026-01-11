@@ -18,9 +18,10 @@ By the end of Week 6, you will be able to:
 
 ## Required Readings
 
-- **Salkind & Frey, Chapters 11-12:** Hypothesis Testing
-- **Urdan, Chapters 8-9:** Introduction to Hypothesis Testing
-- **Supplemental:** "The ASA Statement on P-Values" (posted in Canvas)
+- **OpenStax Chapter 9.1:** Null and Alternative Hypotheses
+  - [Access Reading](https://openstax.org/books/introductory-statistics-2e/pages/9-1-null-and-alternative-hypotheses)
+- **OpenStax Chapter 9.2:** Outcomes and the Type I and Type II Errors
+  - [Access Reading](https://openstax.org/books/introductory-statistics-2e/pages/9-2-outcomes-and-the-type-i-and-type-ii-errors)
 
 ---
 

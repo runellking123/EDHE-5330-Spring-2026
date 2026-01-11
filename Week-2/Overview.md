@@ -18,9 +18,10 @@ By the end of Week 2, you will be able to:
 
 ## Required Readings
 
-- **Higgins & Thornton, Chapter 2:** Descriptive Statistics
-- **APA Manual (7th ed.), pp. 195-206:** APA Tables and Figures
-- **Supplemental:** "Choosing the Right Graph for Your Data" (posted in Canvas)
+- **OpenStax Chapter 2.5:** Measures of the Center of the Data
+  - [Access Reading](https://openstax.org/books/introductory-statistics-2e/pages/2-5-measures-of-the-center-of-the-data)
+- **OpenStax Chapter 2.7:** Measures of the Spread of the Data
+  - [Access Reading](https://openstax.org/books/introductory-statistics-2e/pages/2-7-measures-of-the-spread-of-the-data)
 
 ---
 
@@ -54,7 +55,7 @@ By the end of Week 2, you will be able to:
 | Quiz #2: Descriptive Statistics | Sunday, Jan 28, 11:59 PM | 15 |
 | **Assignment #1: Descriptive Statistics Analysis** | Sunday, Jan 28, 11:59 PM | 100 |
 
-> **Note:** This is a HEAVY week with Assignment #1 due. Plan for 8-10 hours of work. Start early!
+> **Note:** This is a HEAVY week with Assignment #1 due. Plan for 8-10 hours of work. Start early\!
 
 ---
 
