@@ -13,47 +13,41 @@ This repository contains all course materials for EDHE 5330-01-VS: Statistics fo
 
 ## Repository Structure
 
-```
-EDHE-5330-Spring-2026/
-├── README.md
-├── Introduction/
-│   └── Course-Information.md
-├── Week-1/
-│   ├── Overview.md
-│   ├── Discussion-1.md
-│   └── Quiz-1.md
-├── Week-2/
-│   ├── Overview.md
-│   ├── Discussion-2.md
-│   ├── Quiz-2.md
-│   └── Assignment-1.md
-├── Week-3/
-│   ├── Overview.md
-│   ├── Discussion-3.md
-│   └── Quiz-3.md
-├── Week-4/
-│   ├── Overview.md
-│   ├── Discussion-4.md
-│   ├── Quiz-4.md
-│   └── Midterm-Assessment.md
-├── Week-5/
-│   ├── Overview.md
-│   ├── Discussion-5.md
-│   └── Quiz-5.md
-├── Week-6/
-│   ├── Overview.md
-│   ├── Discussion-6.md
-│   ├── Quiz-6.md
-│   └── Assignment-2.md
-├── Week-7/
-│   ├── Overview.md
-│   ├── Discussion-7.md
-│   └── Assignment-3.md
-└── Week-8/
-    ├── Overview.md
-    ├── Final-Project.md
-    └── Course-Reflection.md
-```
+---
+
+## Course Materials
+
+### Required Readings (Free - OpenStax)
+
+All readings are from [OpenStax Introductory Statistics 2e](https://openstax.org/details/books/introductory-statistics-2e) (free online textbook).
+
+| Week | Topic | OpenStax Chapters |
+|------|-------|-------------------|
+| 1 | Introduction to Statistics | Ch 1.1, Ch 1.3 |
+| 2 | Descriptive Statistics | Ch 2.5, Ch 2.7 |
+| 3 | Probability and Normal Distribution | Ch 3.1, Ch 6.1 |
+| 4 | Sampling Methods | Ch 1.2, Ch 7.1 |
+| 5 | Correlation and Regression | Ch 12.2, Ch 12.3 |
+| 6 | Hypothesis Testing | Ch 9.1, Ch 9.2 |
+| 7 | T-Tests and ANOVA | Ch 10.1, Ch 13.1 |
+| 8 | Course Review | Ch 10.4, Ch 12.4 |
+
+### PowerPoint Presentations
+
+Each week includes a detailed PowerPoint presentation with:
+- Step-by-step explanations for beginners
+- Real-world higher education examples
+- Practice problems with solutions
+- Visual aids and diagrams
+
+### Practice Datasets
+
+| Dataset | Week | Description | Sample Size |
+|---------|------|-------------|-------------|
+| Assignment1_Dataset.xlsx | 2 | Student demographics and test scores | 75 students |
+| Assignment2_Dataset.xlsx | 6 | Survey data for correlation/hypothesis testing | 100 respondents |
+| Assignment3_Dataset.xlsx | 7 | Program comparison data for t-tests/ANOVA | 120 students |
+| FinalProject_Dataset.xlsx | 8 | Comprehensive retention study data | 250 students |
 
 ---
 
@@ -86,6 +80,13 @@ EDHE-5330-Spring-2026/
 | Course Reflection | 20 | 3% |
 | **Total** | **720** | **100%** |
 
+### Quiz Information
+
+- 6 quizzes (5 questions each, 15 points per quiz)
+- Multiple choice format
+- Auto-graded in Canvas
+- Answer key available in Quiz-Answer-Key.md (instructor reference)
+
 ---
 
 ## Learning Objectives
@@ -115,6 +116,17 @@ By the end of this course, students will be able to:
 
 **Zoom Meeting:** [https://sus.zoom.us/j/3507115452](https://sus.zoom.us/j/3507115452)
 **Meeting ID:** 350 711 5452
+
+---
+
+## Canvas Course
+
+All materials are also available in Canvas with:
+- Published readings (OpenStax links)
+- PowerPoints and datasets (hidden - publish when ready)
+- Auto-graded quizzes (30 questions total)
+- Discussion boards
+- Assignment submission portals
 
 ---
 
